@@ -45,10 +45,12 @@ fn main() {
                     }
                 }
             }
-            println!("ARR: {:#?}", v);
+            // Displaying the array, for debug purposes.
+            // println!("ARR: {:#?}", v);
             // Continue your program from here. Remember that this is very safe code.
             v.sort();
-            println!("ARR: {:#?}", v);
+            // Displaying the array, for debug purposes.
+            // println!("ARR: {:#?}", v);
             let mut sum : isize = 0;
             let mean : isize;
             for i in &v {

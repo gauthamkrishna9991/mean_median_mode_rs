@@ -1,5 +1,5 @@
 [package]
-name = "mean_median_mode"
+name = "mean_median_mode_rs"
 version = "0.1.0"
 authors = ["Goutham Krishna K V <gauthamkrishna9991@live.com>"]
 edition = "2018"
